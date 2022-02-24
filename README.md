@@ -1,4 +1,10 @@
 # Adv Auto Filter Bot V2
+<p align="center">
+  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+</p>
+<h1 align="center">
+  <b>Wolverine Autofilter Bot</b>
+</h1>
 
 <p align="center">
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
