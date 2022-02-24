@@ -1,6 +1,6 @@
-# Adv Auto Filter Bot V2
+# Wolverine Adv Auto Filter Bot V2
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="logo.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
   <b>Wolverine Autofilter Bot</b>
